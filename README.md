@@ -1,4 +1,4 @@
-<![CDATA[<!-- Header Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a535c,100:4ecdc4&height=200&section=header&text=Omar%20Hamad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bioinformatician%20|%20Data%20Scientist%20|%20University%20Lecturer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 </p>
@@ -192,4 +192,3 @@ me = Bioinformatician()
   <img src="https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=flat-square" />
   <img src="https://img.shields.io/badge/Powered%20by-☕-brown?style=flat-square" />
 </p>
-]]>
